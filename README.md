@@ -1,2 +1,2 @@
 # app - App
-> My owned Business Application
+> My owned Business App
