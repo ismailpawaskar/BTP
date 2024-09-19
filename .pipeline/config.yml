@@ -22,9 +22,9 @@ stages:
   productionDeployment:
     cfTargets:
       - appName: 'app'
-        org: 'org'
-        space: 'space'
-        apiEndpoint: 'https://api.cf.region.hana.ondemand.com'
+        org: '5c6e60eatrial'
+        space: 'sp'
+        apiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com'
         credentialsId: 'deploy-to-cf'
 
 # Step configuration
